@@ -3,7 +3,7 @@
 
 > [!NOTE]
 > The only **REAL** host of RDD is now at [**`rdd-latte-to.pages.dev`**](https://rdd-latte-to.pages.dev).
-> 
+
 > [!CAUTION]
 > Latte Softworks is not responsible for any potential harm caused by using an unofficial fork/rehost of RDD, though anyone is free to fork off of or rehost RDD, as it is under the MIT license. RDD is a static website with none of its own backend infrastructure, binaries are fetched directly from Roblox's official content delivery network via [**`setup-aws.[rbxcdn.com]`**](https://setup-aws.rbxcdn.com).
 
