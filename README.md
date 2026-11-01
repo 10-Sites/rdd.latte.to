@@ -1,8 +1,11 @@
-[commits]: https://github.com/latte-soft/rdd/commits
-[badges/last-modified]: https://img.shields.io/github/last-commit/latte-soft/rdd?label=Last%20Modifed
+[commits]: https://github.com/10-Sites/rdd/commits
+[badges/last-modified]: https://img.shields.io/github/last-commit/10-sites/rdd?label=Last%20Modifed
 
+> [!NOTE]
+> The only **REAL** host of RDD is now at [**`rdd-latte-to.pages.dev`**](https://rdd-latte-to.pages.dev).
+> 
 > [!CAUTION]
-> The only *official* host of RDD is ~~[**`rdd.[latte.to]`**](https://rdd.latte.to)~~ now [**`rdd-latte-to.pages.dev`**](https://rdd-latte-to.pages.dev). Latte Softworks is not responsible for any potential harm caused by using an unofficial fork/rehost of RDD, though anyone is free to fork off of or rehost RDD, as it is under the MIT license. RDD is a static website with none of its own backend infrastructure, binaries are fetched directly from Roblox's official content delivery network via [**`setup-aws.[rbxcdn.com]`**](https://setup-aws.rbxcdn.com).
+> Latte Softworks is not responsible for any potential harm caused by using an unofficial fork/rehost of RDD, though anyone is free to fork off of or rehost RDD, as it is under the MIT license. RDD is a static website with none of its own backend infrastructure, binaries are fetched directly from Roblox's official content delivery network via [**`setup-aws.[rbxcdn.com]`**](https://setup-aws.rbxcdn.com).
 
 ## RDD ("Roblox Deployment Downloader")
 
@@ -10,7 +13,7 @@
 
 Locally download Roblox deployments (Windows/Mac) directly from your browser!
 
-Hosted officially @ <https://rdd.latte.to>
+Hosted unOfficially @ <https://rdd-latte-to.pages.dev>
 
 ### What is this?
 
@@ -19,7 +22,7 @@ RDD can assemble plain resources directly from Roblox's [`setup`](https://setup.
 ### Usage
 
 ```txt
-[*] USAGE: https://rdd.latte.to/?channel=<CHANNEL_NAME>&binaryType=<BINARY_TYPE>&arch=<ARCH>&version=<VERSION_HASH>
+[*] USAGE: https://rdd-latte-to.pages.dev/?channel=<CHANNEL_NAME>&binaryType=<BINARY_TYPE>&arch=<ARCH>&version=<VERSION_HASH>
 
     Binary Types:
     * WindowsPlayer
